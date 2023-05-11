@@ -44,7 +44,7 @@ export const Cards = () => {
                         </li>
                     </ul>
 
-                    <button className="btn btn-primary rounded-5 w-100 py-2" style={{ backgroundColor: '#7f5af0' }}>Empezar</button>
+                    <a href='https://github.com/josueperezparejo' target='_blank' className="btn btn-primary rounded-5 w-100 py-2" style={{ backgroundColor: '#7f5af0' }}>Empezar</a>
                 </div>
 
                 <div className="border p-4 rounded-5 bg-dark-subtle cards" style={{ width: '330px' }}>
@@ -58,7 +58,7 @@ export const Cards = () => {
                         <li className="list-group-item opacity-25">
                             <p>✔️ Acceso de por vida a los cursos que completes</p>
                         </li>
-                        <li className="list-group-item opacity-25">
+                        <li className="list-group-item">
                             <p>✔️ Acceso a todos los cursos</p>
                         </li>
                         <li className="list-group-item">
@@ -69,7 +69,7 @@ export const Cards = () => {
                         </li>
                     </ul>
 
-                    <button className="btn btn-primary rounded-5 w-100 py-2" style={{ backgroundColor: '#7f5af0' }}>Empezar</button>
+                    <a href='https://github.com/josueperezparejo' target='_blank' className="btn btn-primary rounded-5 w-100 py-2" style={{ backgroundColor: '#7f5af0' }}>Empezar</a>
                 </div>
 
                 <div className="border p-4 rounded-5 bg-black cards" style={{ width: '330px' }}>
@@ -94,7 +94,7 @@ export const Cards = () => {
                         </li>
                     </ul>
 
-                    <button className="btn btn-primary rounded-5 w-100 py-2" style={{ backgroundColor: '#7f5af0' }}>Empezar</button>
+                    <a href='https://github.com/josueperezparejo' target='_blank' className="btn btn-primary rounded-5 w-100 py-2" style={{ backgroundColor: '#7f5af0' }}>Empezar</a>
                 </div>
             </div>
         </>
